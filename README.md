@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kiran shah</h1>
-<h3 align="center">A passionate web developer.</h3>
+<h3 align="center"> Aspiring Cloud Engineer | AWS | Linux | Networking|python </h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahakira&label=Profile%20views&color=0e75b6&style=flat" alt="sahakira" /> </p>
 
-- 🌱 I’m currently learning **Html, CSS and JS**
+- 🌱 I’m currently learning **Html, CSS and JS**,Cloud Engineering Learner | AWS | Linux | Networking Basics|python
 
 - 📫 How to reach me **kiranshah7929@gmail.com**
 
